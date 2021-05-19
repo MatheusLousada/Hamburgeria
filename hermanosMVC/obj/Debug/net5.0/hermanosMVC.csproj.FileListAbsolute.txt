@@ -1,0 +1,127 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\ref\hermanosMVC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.Views.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.Views.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\staticwebassets\hermanosMVC.StaticWebAssets.Manifest.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\staticwebassets\hermanosMVC.StaticWebAssets.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\scopedcss\bundle\hermanosMVC.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.TagHelpers.input.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.TagHelpers.output.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorCoreGenerate.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorTargetAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorTargetAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.Views.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\ref\hermanosMVC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\SENAC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csproj.CopyComplete
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.exe
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.deps.json
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.runtimeconfig.json
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.dll
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\ref\hermanosMVC.dll
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.pdb
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.Views.dll
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\hermanosMVC.Views.pdb
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.AssemblyInfo.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\staticwebassets\hermanosMVC.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\staticwebassets\hermanosMVC.StaticWebAssets.xml
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\scopedcss\bundle\hermanosMVC.styles.css
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.TagHelpers.input.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.TagHelpers.output.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.Views.pdb
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.dll
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\ref\hermanosMVC.dll
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.pdb
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.genruntimeconfig.cache
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csproj.CopyComplete
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Mensagem\Enviar.cshtml.g.cs
+C:\Users\usuario\Desktop\hermanosMVC\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\usuario\Desktop\hermanosMVC\obj\Debug\net5.0\Razor\Views\Mensagem\Listar.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\appsettings.json
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.exe
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.deps.json
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.runtimeconfig.json
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.runtimeconfig.dev.json
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.dll
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\ref\hermanosMVC.dll
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.pdb
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.Views.dll
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\hermanosMVC.Views.pdb
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\bin\Debug\net5.0\MySqlConnector.dll
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csprojAssemblyReference.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.AssemblyInfoInputs.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.AssemblyInfo.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csproj.CoreCompileInputs.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorAssemblyInfo.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorAssemblyInfo.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\staticwebassets\hermanosMVC.StaticWebAssets.Manifest.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\staticwebassets\hermanosMVC.StaticWebAssets.xml
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\scopedcss\bundle\hermanosMVC.styles.css
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.TagHelpers.input.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.TagHelpers.output.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorCoreGenerate.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Mensagem\Enviar.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Mensagem\Listar.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorTargetAssemblyInfo.cache
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.RazorTargetAssemblyInfo.cs
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.Views.pdb
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.csproj.CopyComplete
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.dll
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\ref\hermanosMVC.dll
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.pdb
+C:\Projetos\Hamburgueria\hermanosMVC\hermanosMVC\obj\Debug\net5.0\hermanosMVC.genruntimeconfig.cache

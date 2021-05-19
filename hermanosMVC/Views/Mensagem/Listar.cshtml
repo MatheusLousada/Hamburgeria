@@ -1,0 +1,59 @@
+@model IEnumerable<Mensagem> //Referência da model que será listada
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<style>
+    td{
+        border: 3px solid #ffffff;
+        color: #5d5d5d;
+        font-size: 14px;
+        font-weight: normal;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        background-color: #efeeee;
+        text-align: center;
+        table-layout: fixed;
+        height: 100px;
+        transition: height 0.4s;
+        /*propriedade desejada*/
+          max-width: 100px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          transition: all ease 0.7s;
+        }
+
+        td.texto:hover {
+            height: 300px;
+            max-width: 100px;
+            overflow: auto;
+            text-overflow: ellipsis;
+            white-space: initial;
+        }
+</style>
+
+<h2 style="margin-top: 50px;">Mensagens dos Clientes</h2><br>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Texto</th>
+        </tr>
+    </thead>
+
+        @foreach (Mensagem u in Model) //Para pegar as informações do banco de dados, criando um objeto chamado "u" do tipo "PacoresTuristicos" que será alimentado pela Model
+        {
+            <tr>
+                <td>@u.Id</td>
+                <td>@u.Nome</td>
+                <td>@u.Email</td>
+                <td class="texto">@u.Texto</td> 
+            </tr> 
+        }
+        <tbody>
+
+        </tbody>
+</table> 
